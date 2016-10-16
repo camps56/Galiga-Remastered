@@ -4,11 +4,12 @@ This is my first ever project so please any suggestions you have let me know, th
 
 This game will be on windows but primarily on Android, completely free, this is my first ever game so I know it's not going to be the greatest.
 
-Update Log 10/16/16: Title Screen (Options and Customization buttons bring you to a screen but it is completely blank)
+Update Log 10/16/16: 
+Title Screen (Options and Customization buttons bring you to a screen but it is completely blank)
 
-Music in the background *WARNING MUSIC IS VERY LOUD TURN DOWN YOUR VOLUME*
+Music in the background (*WARNING MUSIC IS VERY LOUD TURN DOWN YOUR VOLUME*)
 
-Music in the game
+Music in the game (*WARNING MUSIC IS VERY LOUD TURN DOWN YOUR VOLUME*)
 
 Controls: Arrow Keys to move (*WILL BE ABLE TO ADJUST IN A LATER BUILD*)
 
