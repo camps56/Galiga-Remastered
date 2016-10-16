@@ -16,7 +16,7 @@ Space to shoot (*WARNING SOUNDS ARE VERY LOUD WILL BE ABLE TO ADJUST SETTINGS IN
 
 Hitting R restarts the level (*THERE IS NO CONFIRMATION IT WILL RESTART IF PRESSED*)
 
-Hitting M brings you to the main menu (*THERE IS NO CONFIRMATION IT WILL BRING YOU THO THE MAIN MENU*)
+Hitting M brings you to the main menu (*THERE IS NO CONFIRMATION IT WILL BRING YOU TO THE MAIN MENU*)
 
 (*Updates every 2-3 weeks*)
 
