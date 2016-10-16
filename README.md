@@ -10,11 +10,13 @@ Music in the background *WARNING MUSIC IS VERY LOUD TURN DOWN YOUR VOLUME*
 
 Music in the game
 
-Controls: Arrow Keys to move (Will be able to adjust in a later build)
+Controls: Arrow Keys to move (*WILL BE ABLE TO ADJUST IN A LATER BUILD*)
 
-Space to shoot *WARNING SOUNDS ARE VERY LOUD WILL BE ABLE TO ADJUST SETTINGS IN A LATER BUILD*
+Space to shoot (*WARNING SOUNDS ARE VERY LOUD WILL BE ABLE TO ADJUST SETTINGS IN A LATER BUILD*)
 
-Hitting R restarts the level *THERE IS NO CONFIRMATION IT WILL RESTART IF PRESSED*
+Hitting R restarts the level (*THERE IS NO CONFIRMATION IT WILL RESTART IF PRESSED*)
 
-Hitting M brings you to the main level *THERE IS NO CONFIRMATION IT WILL BRING YOU THO THE MAIN MENU*
+Hitting M brings you to the main menu (*THERE IS NO CONFIRMATION IT WILL BRING YOU THO THE MAIN MENU*)
+
+(*Updates every 2-3 weeks*)
 
